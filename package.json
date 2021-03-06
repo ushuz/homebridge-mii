@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-mii",
+  "version": "0.0.1",
+  "description": "An opinioned collection of Xiaomi/Mijia plugins for Homebridge.",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "mi",
+    "mijia",
+    "xiaomi"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ushuz/homebridge-mii.git"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.4.0",
+    "miio": "=0.15.6"
+  },
+  "dependencies": {
+    "miio": "^0.15.6"
+  }
+}
